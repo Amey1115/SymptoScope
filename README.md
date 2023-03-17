@@ -25,3 +25,6 @@
     <li>Go to the directory where repository was saved</a> </li>
     <li> Open Jupyter Notebook in that directory, open SymptoScope.ipynb and run all cells </li>
 </ol>
+
+# Images
+<img src="Prediction.png "height="300" width="500">
