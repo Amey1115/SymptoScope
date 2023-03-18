@@ -6,7 +6,7 @@
 <p>
   <b>SymptoScope</b> is an easy-to-use application where users can select their symptoms from a dropdown menu. Based on these symptoms, the model predicts the disease using two available models: Naive Bayes and Random Forest. The models were trained on a dataset called 'Disease Prediction Using Machine Learning,' which was taken from Kaggle.
 
-  <i>Note:</i> This application is <b>not</b> intended to provide treatment recommendations, but rather to help users check for possible diseases based on their symptoms. If you experience severe symptoms, it is recommended that you seek medical attention from a qualified healthcare professional.
+  <i>Note:</i> This application is <b>not</b> intended to provide treatment recommendations, but rather to help users check for possible diseases based on their symptoms. If you experience <b>severe</b> symptoms, it is recommended that you contact a qualified healthcare professional.
 
 </p>
 
